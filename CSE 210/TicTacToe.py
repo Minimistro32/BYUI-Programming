@@ -4,6 +4,7 @@ Assignment: Tic-Tac-Toe (Week 2)
 Class: CSE 210
 Notes: Everything but the diagonal win condition, works for any gameboard size with width and height >= 2. 
     I ran out of time to program  a diagonal win condition for a rectangular gameboard.
+    Hitting enter when asked for user input will cause the game to crash.
 '''
 
 class TicTacToe:
